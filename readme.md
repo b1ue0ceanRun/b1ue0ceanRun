@@ -6,6 +6,6 @@
 - ⚡ Python / Java
 - 🍔 Blog: [ruorunzi的博客](https://b1ue0ceanrun.github.io/)
 <br></br>
-<p align="right">
+<p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=b1ue0cean&show_icons=true" />
 </p>
