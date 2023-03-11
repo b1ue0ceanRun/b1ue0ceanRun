@@ -9,5 +9,4 @@
 <br></br>
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=b1ue0cean&show_icons=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=b1ue0cean" />
 </p>
