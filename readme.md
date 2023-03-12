@@ -1,4 +1,4 @@
-### 👋baby AI researcher & CTF player & WEB Security 
+### 👋 baby AI researcher & CTF player & WEB Security 
 </br>
 
 - 🔭 东南某211人工智能专业废物      
